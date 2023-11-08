@@ -1,6 +1,6 @@
-#Code Journal#
+#Code Journal
 
-###2023-11-07###
+###2023-11-07
 **TODAY**
 Kaggle - Submitted 2nd competition, "Housing Prices Competition for Kaggle Learn Users"
 GitHub - Set up code_journal repository
