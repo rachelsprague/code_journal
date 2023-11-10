@@ -1,5 +1,17 @@
 # Code Journal
 
+## 2023-11-09
+**TODAY**
+- Tableau - Installed Tableau Public, reviewed dashboards, bins, calculated fields, visualizations, joins
+
+**THOUGHTS**
+- 
+
+**UP NEXT**
+- Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
+- code_journal - Iterate on format
+- Tableau - Publish dashboard, Explore Data+Movies
+
 ## 2023-11-07
 **TODAY**
 - Kaggle - Submitted 2nd competition, "Housing Prices Competition for Kaggle Learn Users"
