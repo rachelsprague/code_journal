@@ -1,11 +1,17 @@
 # Code Journal
 
+## 2023-11-10
+**TODAY**
+- Portfolio - Downloaded portfolio template from HTML5UP, started to customize
+
+**UP NEXT**
+- Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
+- Tableau - Find dataset to use to build and publish dashboard, Explore Data+Movies
+- Portfolio - Add projects to portfolio, host on github
+
 ## 2023-11-09
 **TODAY**
 - Tableau - Installed Tableau Public, reviewed dashboards, bins, calculated fields, visualizations, joins
-
-**THOUGHTS**
-- 
 
 **UP NEXT**
 - Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
