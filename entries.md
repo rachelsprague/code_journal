@@ -1,5 +1,19 @@
 # Code Journal
 
+## 2023-11-11
+**TODAY**
+- APIs - Explored last.fm, spotify
+- Tableau - Intro Data+Movies
+
+**THOUGHTS**
+- Thinking of projects I can do that actually matter to me, hence why I was exploring music apis to assist in playlist creation and charts
+
+**UP NEXT**
+- Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
+- Tableau - Complete Data+Movies dashboard
+- Portfolio - Add projects to portfolio, host on github
+- APIs - Explore Spotify api
+
 ## 2023-11-10
 **TODAY**
 - Portfolio - Downloaded portfolio template from HTML5UP, started to customize
