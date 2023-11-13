@@ -2,6 +2,15 @@
 
 ## 2023-11-11
 **TODAY**
+- Tableau - Published [Data+Movies](https://public.tableau.com/views/ChristmasMoviesIMDB/CHRISTMASMOVIES_1) entry. Still having trouble with the Genre filter
+- Portfolio - Added Tableau Data+Movies viz
+
+**UP NEXT**
+- Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
+- Tableau - Figure out the Genre filter from the Data+Movies viz
+
+## 2023-11-11
+**TODAY**
 - APIs - Explored last.fm, spotify
 - Tableau - Intro Data+Movies
 
@@ -11,8 +20,7 @@
 **UP NEXT**
 - Kaggle - For both competitions, apply recent learnings to improve prediction accuracy and rise up the leaderboards
 - Tableau - Complete Data+Movies dashboard
-- Portfolio - Add projects to portfolio, host on github
-- APIs - Explore Spotify api
+- Portfolio - Add projects to portfolio
 
 ## 2023-11-10
 **TODAY**
